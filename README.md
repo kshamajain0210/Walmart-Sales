@@ -5,7 +5,7 @@ This SQL project aims to explore Walmart Sales data to understand top-performing
 **About**
 This project explores Walmart Sales data to understand top-performing branches and products, sales trends of different products, and customer behavior. The aim is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
 
-"In this recruiting competition, job-seekers are provided historical sales data for 45 Walmart stores in different regions. Each store contains many departments, and participants must project the sales for each department in each store. The dataset includes selected holiday markdown events to add to the challenge. These markdowns are known to affect sales, but it is challenging to predict which departments are affected and the extent of the impact." source
+"In this recruiting competition, job-seekers are provided historical sales data for 45 Walmart stores in different regions. Each store contains many departments, and participants must project the sales for each department in each store. The dataset includes selected holiday markdown events to add to the challenge. These markdowns are known to affect sales, but it is challenging to predict which departments are affected and the extent of the impact."
 
 **Purposes Of The Project**
 The major aim of this project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
