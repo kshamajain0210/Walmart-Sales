@@ -38,13 +38,13 @@ This analysis aims to uncover the different customer segments, purchase trends, 
 **Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the listed questions and aims of this project.**
 **Conclusion:**
 
--- Create database
-create database if not exists walwalmartsalesmart_sales;
+**-- Create database**  
+`create database if not exists walwalmartsalesmart_sales;`
 
--- Create table
-select *, row_number() over() from walmartsales;
+**-- Create table**  
+`select *, row_number() over() from walmartsales;`
 
-/* Data Cleaning */
+****/ Data Cleaning /****
 
 -- All data in table   
 `SELECT	* FROM walmartsales;`
@@ -73,7 +73,7 @@ alter table walmartsales add column month_name varchar(20);
 update walmartsales set month_name = monthname(date);`
 
 
-/* Exploratory Data Analysis (EDA) */
+**Exploratory Data Analysis (EDA)**
 
 
 **-- To check data in table 
