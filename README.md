@@ -76,7 +76,7 @@ update walmartsales set month_name = monthname(date);`
 **Exploratory Data Analysis (EDA)**
 
 
-**-- To check data in table 
+**-- To Select all data in the table 
 SELECT	* from walmartsales;**
 
 
